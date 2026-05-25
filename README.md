@@ -23,7 +23,7 @@
   </tr>
 </table>
 ---
-## 🛠️ Skills & Technologies
+##  🛠️ Skills & Technologies
 
 | I use frequently | I am building expertise in | Tools & Cloud |
 | :--- | :--- | :--- |
