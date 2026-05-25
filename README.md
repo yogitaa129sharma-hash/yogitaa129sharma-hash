@@ -12,18 +12,18 @@
         <li>📫 <b>How to reach me:</b> <a href="https://linkedin.com">LinkedIn</a></li>
       </ul>
       <br/>
-      <h4>📊 GitHub Analytics</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=yogitaa129sharma-hash&show_icons=true&theme=tokyonight&count_private=true" width="100%" alt="GitHub Stats" />
+      <h4>📊 GitHub Profile</h4>
+      <img src="https://komarev.com/ghpvc/?username=yogitaa129sharma-hash&label=Profile%20Views&color=0e76a8&style=flat-square" alt="Yogita Profile Views" />
     </td>
     
     <td width="40%" valign="top">
-      <h4>💻 Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogitaa129sharma-hash&layout=compact&theme=tokyonight&hide_border=false" width="100%" alt="Top Languages" />
+      <h4>💻 Tech Dashboard</h4>
+      <p>Welcome to my professional repository! Once projects are uploaded, dynamic analytics tracking will render here.</p>
     </td>
   </tr>
 </table>
 ---
-##  🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 | I use frequently | I am building expertise in | Tools & Cloud |
 | :--- | :--- | :--- |
@@ -38,18 +38,3 @@
 ## 🎵 My Down Time
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)
 <p align="right"><i>Updated: 2026</i></p>
-
-<!--
-**yogitaa129sharma-hash/yogitaa129sharma-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
